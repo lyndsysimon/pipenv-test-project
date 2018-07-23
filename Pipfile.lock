@@ -1,0 +1,29 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "4ea06a97d861011c36a50ddc97277d6c215877a6683f4261e381562e11eb6742"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "2.7"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "e1839a8": {
+            "editable": true,
+            "path": "."
+        },
+        "git-noop": {
+            "hashes": [],
+            "version": "==1.2.3"
+        }
+    },
+    "develop": {}
+}
